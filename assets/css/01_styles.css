@@ -1,0 +1,42 @@
+.header{
+    background-color: gray;
+    color:white;
+    padding:15px;
+    border: 2px solid gray;
+    border-style: ridge;
+}
+
+.contact{
+    text-align: center;
+    text-decoration:none;
+    background-color: rgb(16, 16, 16);
+    color:white;
+    border:gray;
+    border-style: ridge;
+    padding: 10px;
+}
+.contact p{
+   margin-top: 0%;
+}
+.contact p{
+     text-align: left;
+    padding-left: 40% ;
+}
+body{
+    color:white;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+a:hover{
+    color:darkgray;
+    background:transparent;
+    text-decoration: underline;
+}
+table{
+    border:2px solid white;
+}
+ul{
+    list-style-type:square;
+}
